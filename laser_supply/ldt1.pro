@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/bharrington/eagle/laser_supply/ldt1.brd
 
-Start at      : 03:46:05 (9/14/10)
-End at        : 03:46:05 (9/14/10)
-Elapsed time  : 00:00:00
+Start at      : 15:32:35 (9/17/10)
+End at        : 15:32:36 (9/17/10)
+Elapsed time  : 00:00:01
 
 Signals       :    10   RoutingGrid: 50 mil  Layers: 2
-Connections   :    42   predefined:  0 ( 0 Vias )
+Connections   :    44   predefined:  0 ( 0 Vias )
 
-Router memory :   11016
+Router memory :   9936
 
 Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
-Number of Ripups  :         0        14         0         0         0         0
-max. Level        :         0         3         0         0         0         0
+Time per pass     :  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0        16         0         0         0         0
+max. Level        :         0         2         0         0         0         0
 max. Total        :         0        15         0         0         0         0
 
-Routed            :        12        42        42        42        42        42
-Vias              :         0        32        10         9         9         9
-Resolution        :    28.6 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :        16        44        44        44        44        44
+Vias              :         0        34        23        23        14        14
+Resolution        :    36.4 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
